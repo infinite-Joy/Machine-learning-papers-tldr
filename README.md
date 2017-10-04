@@ -5,6 +5,6 @@ Short description on famous machine learning papers
 
 We used to think in high dimension it is local minima where the optimisation got stuck. However this paper proves that it is actually saddle points that trap the optimizer in very high dimension. And in fact local minima are really rare in high dimension.
 
-* [Class-Based n-gram models of Natural Language]()
+* [Class-Based n-gram models of Natural Language](Machine-learning-papers-tldr/10.1.1.13.9919.pdf)
 
 Depending on relatively simple statistics and Markov Chains, using n-gram models based on classes of words, we are able to extract classes that are either syntactically or semantically consistent.
