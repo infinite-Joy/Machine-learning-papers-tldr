@@ -8,3 +8,7 @@ We used to think in high dimension it is local minima where the optimisation got
 * [Class-Based n-gram models of Natural Language](10.1.1.13.9919.pdf)
 
 Depending on relatively simple statistics and Markov Chains, using n-gram models based on classes of words, we are able to extract classes that are either syntactically or semantically consistent.
+
+* [Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/pdf/1706.02633.pdf)
+
+Cool way to evaluate their generative model: TSTR (Train on synthetic, test on real), which consists in training a supervised model on the generated data and testing it on real, held-out data. Using GANS generate time series data from training purposes. Also using Kolmogorov-Smirnov two-sample test to test if the generated data is different from the training data.
