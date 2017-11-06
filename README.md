@@ -12,3 +12,7 @@ Depending on relatively simple statistics and Markov Chains, using n-gram models
 * [Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/pdf/1706.02633.pdf)
 
 Cool way to evaluate their generative model: TSTR (Train on synthetic, test on real), which consists in training a supervised model on the generated data and testing it on real, held-out data. Using GANS generate time series data from training purposes. Also using Kolmogorov-Smirnov two-sample test to test if the generated data is different from the training data.
+
+* [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+
+First glance over the paper reading the headings, abstraction and the conclusion. In the second step go through the paper. In the third step reimplement the paper and challenge the assumptions made in the paper.
