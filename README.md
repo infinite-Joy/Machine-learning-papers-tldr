@@ -16,3 +16,5 @@ Cool way to evaluate their generative model: TSTR (Train on synthetic, test on r
 * [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 
 First glance over the paper reading the headings, abstraction and the conclusion. In the second step go through the paper. In the third step reimplement the paper and challenge the assumptions made in the paper.
+
+* [A primer on neural network models for Natural Language Processing](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)
