@@ -20,3 +20,7 @@ First glance over the paper reading the headings, abstraction and the conclusion
 * [A primer on neural network models for Natural Language Processing](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)
 
 A kind of overview or you can say a listing of the methodologies in NLP.
+
+* [Caltech machine learning course](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+
+This is an introductory course by Caltech Professor Yaser Abu-Mostafa on machine learning that covers the basic theory, algorithms, and applications.
